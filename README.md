@@ -31,7 +31,7 @@ A robust, user-friendly native Android application engineered to calculate Ethio
 
 ## 📥 Download & Test the App
 You can download the pre-compiled build directly to test it on your Android device:
-* 👉 **[Download Latest APK from Releases](../../releases)**
+* 👉 **[Download app-release.apk (v1.0.0)](https://github.com/antiye20-del/SallaryCalculater-App/releases/download/v1.0.0/app-release.apk)**
 
 ---
 
