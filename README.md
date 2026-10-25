@@ -38,9 +38,10 @@ You can download the pre-compiled build directly to test it on your Android devi
 ## 📬 Connect & Contact Me
 I am open to international remote job opportunities, technical collaborations, and mentorship connections! If you have feedback on the app or would like to discuss software engineering, feel free to reach out:
 
-* **GitHub Profile:** [antiye20-del](https://github.com/antiye20-del)
-* **Phone:** [+251 91610 7723]
-* **Email:** [antiye20@gmail.com]
-* **Telegram:** [(https://t.me/antekiya)]
-
+- 🐙 **GitHub Profile:** [antiye20-del](https://github.com/antiye20-del)
+- 💼 **LinkedIn:** [Anteneh Meseret](https://www.linkedin.com/in/anteneh-meseret-869534134)
+- ✈️ **Telegram:** [@antekiya](https://t.me/antekiya)
+- ✉️ **Email:** [antiye20@gmail.com](mailto:antiye20@gmail.com)
+- 📞 **Phone:** [+251 916 107 723](tel:+251916107723)
+  
 Feel free to open an **[Issue](../../issues)** or start a **[Discussion](../../discussions)** directly in this repository!
