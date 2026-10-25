@@ -9,9 +9,16 @@ A robust, user-friendly native Android application engineered to calculate Ethio
 ---
 
 ## 📸 App Preview
-| Calculator Interface | Deduction Breakdown |
-| :---: | :---: |
-| <img src="screenshots/screenshot1.png" width="240"/> | <img src="screenshots/screenshot2.png" width="240"/> |
+
+<p align="center">
+  <img src="screenshots/screenshots1.png" width="220" alt="App Screenshot 1"/>
+  &nbsp;
+  <img src="screenshots/screenshots2.png" width="220" alt="App Screenshot 2"/>
+  &nbsp;
+  <img src="screenshots/screenshots3.png" width="220" alt="App Screenshot 3"/>
+  &nbsp;
+  <img src="screenshots/screenshots4.png" width="220" alt="App Screenshot 4"/>
+</p>
 
 ---
 
@@ -23,10 +30,17 @@ A robust, user-friendly native Android application engineered to calculate Ethio
 ---
 
 ## 📥 Download & Test the App
-You can download the latest pre-compiled build to test it directly on your Android device:
+You can download the pre-compiled build directly to test it on your Android device:
 * 👉 **[Download Latest APK from Releases](../../releases)**
 
 ---
 
-## 💬 Let's Connect & Collaborate
-I built this project to solve practical financial calculation challenges while refining my Android engineering skills. I welcome code feedback, architectural discussions, and global networking with fellow developers! Feel free to open an **[Issue](../../issues)** or start a **[Discussion](../../discussions)**.
+## 📬 Connect & Contact Me
+I am open to international remote job opportunities, technical collaborations, and mentorship connections! If you have feedback on the app or would like to discuss software engineering, feel free to reach out:
+
+* **GitHub Profile:** [antiye20-del](https://github.com/antiye20-del)
+* **Phone:** [+251 91610 7723]
+* **Email:** [antiye20@gmail.com]
+* **Telegram:** [(https://t.me/antekiya)]
+
+Feel free to open an **[Issue](../../issues)** or start a **[Discussion](../../discussions)** directly in this repository!
